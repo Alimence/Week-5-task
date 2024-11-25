@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+    color: wheat;
+}
+#info-section{
+    text-align: center;
+    justify-content: center;
+}
+.info-container img{
+border-radius: 12px;
+}
+.info-container {
+    text-align: center;
+    justify-content: center;
+}
+.info-containerh1{
+    text-align: center;
+    justify-content: center;
+}
+#contact-section{
+    text-align: center;
+    justify-content: center;
+}
+ion-icon{
+    color: brown;
+    font-size: 30px;
+    margin: 5px 10px;
+}
+.contact-container{
+    text-align: center;
+    justify-content: center;
+}
+.contact-containerh1{
+    text-align: center;
+    justify-content: center;
+}
